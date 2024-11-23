@@ -1,0 +1,16 @@
+{
+  "name": "posit-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  },
+  "description": "- New project  - New Rstudio project  - can rename (\"click to rename project\")  - RAM widget shows up and links to resources  - It now appears in Your Workspace  - is private by default  - Archive + Trash  - can be restored  - menu icon reveals sidebar  - publishing apps?  - publish to cloud  - appears in workspace  - publishing disabled for everything but Rstudio and jupyter projects  - ensure publishing to Posit cloud remains for paid accounts  - sharing with users  - change general access  - viewable when \"All Posit Cloud Users\" not viewable otherwise  - test that their changes do not propagate to yours?",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
